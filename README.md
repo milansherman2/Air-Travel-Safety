@@ -46,4 +46,5 @@ The following is a link to the blog post that I created and published on Medium:
 
 <h3>Infographic</h3>
 Below is the infographic that I created, which includes a few of the visualizations that I created in Tableau.
+
 ![Infographic](https://github.com/milansherman2/Air-Travel-Safety/blob/main/Infographic%20Sherman.png "Infographic")
