@@ -1,5 +1,5 @@
 # Air-Travel-Safety
-Data Analysis and Visualization with Python, R, and Tableau
+Data Analysis and Visualization
 
   <h2>Languages Used</h2>
   
@@ -13,11 +13,13 @@ Data Analysis and Visualization with Python, R, and Tableau
 - Barchart
 - Piechart
 - Linechart
+- Stepchart
 - Treemap
 - Area and Stacked Area Chart
 - Scatterplot
 - Bubble Plot
 - Density Map
+- Contour Plot
 - Heatmap
 - Spatial Map
 - Funnel Chart
@@ -27,3 +29,15 @@ Data Analysis and Visualization with Python, R, and Tableau
 - Waterfall Chart
   
 </p>
+
+<h2>Air Travel Safety</h2>
+The project for the semester involved a bit of role playing as data analyst/scientist working for an airline tasked with helping to combat a negative media campaign highlighting plane crashes and air safety concerns.  We produced five deliverables for this project:
+
+- Products for internal audience:
+  - Detailed analysis of data with visualizations
+  - Executive Summary
+- External products
+  -  Infographic
+  -  Blog post
+  -  Presentation
+
