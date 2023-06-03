@@ -41,4 +41,4 @@ The project for the semester involved a bit of role playing as data analyst/scie
   -  Blog post
   -  Presentation
 
-![Infographic](https://github.com/ReginaSherman/project3_frontend/blob/3c4106e19dc9f165b085692ab8121077a7a90762/Screen%20Shot%202022-02-16%20at%2012.04.02%20PM.jpg "Infographic")
+![Infographic](https://github.com/milansherman2/Air-Travel-Safety/blob/main/Infographic%20Sherman.png "Infographic")
